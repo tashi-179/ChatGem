@@ -22,6 +22,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency "sidekiq"
   s.add_development_dependency "redis"
   s.add_dependency "toastr-rails"
-  s.add_dependency "paperclip"
+  # s.add_dependency "paperclip"
   s.add_dependency "cancancan"
 end

@@ -3,7 +3,6 @@ PATH
   specs:
     chat_engine (0.1.0)
       cancancan
-      paperclip
       rails (>= 5.1)
       toastr-rails
 
@@ -94,12 +93,6 @@ GEM
     nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     orm_adapter (0.5.0)
-    paperclip (6.1.0)
-      activemodel (>= 4.2.0)
-      activesupport (>= 4.2.0)
-      mime-types
-      mimemagic (~> 0.3.0)
-      terrapin (~> 0.6.0)
     puma (3.12.0)
     rack (2.0.6)
     rack-protection (2.0.4)
